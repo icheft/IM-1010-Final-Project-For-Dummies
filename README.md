@@ -1,3 +1,5 @@
+# IM 1010 Final Project for Dummies 
+
 ## Terminal Basics
 + `cd <folderName>`: go to the folder
 + `cd ..`: go back to the previous folder
