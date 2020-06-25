@@ -1,4 +1,12 @@
 # IM 1010 Final Project for Dummies 
+FYI, the term "for dummies" does not indicate that you are dummies. Instead, it represents the simplicity of the repo and instructions are well laid.
+
+- [IM 1010 Final Project for Dummies](#im-1010-final-project-for-dummies)
+  - [Terminal Basics](#terminal-basics)
+  - [How to Use](#how-to-use)
+    - [Rendering](#rendering)
+  - [Reference](#reference)
+  - [Contributions](#contributions)
 
 ## Terminal Basics
 + `cd <folderName>`: go to the folder
@@ -76,3 +84,8 @@ void Snake::showMap(vector<vector<int>> map)
 
 void showMap(vector<vector<int>> map); // in public:
 ```
+
+## Contributions
+If you have any questions, please let me know either through the [issue page](https://github.com/icheft/IM-1010-Final-Project-For-Dummies/issues) or direct message. 
+
+Any contributions are welcome. Fork this repository and submit a pull request if you have better solutions.
