@@ -327,7 +327,7 @@ int main(int argc, char* argv[])
             }
             tmp_queue.pop();
         }
-        if (ifGameOver){
+        if (ifGameOver) {
             break;
         }
         // Check teleport
